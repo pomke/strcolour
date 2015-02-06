@@ -1,0 +1,29 @@
+{
+  "name": "strcolour",
+  "version": "1.0.0",
+  "description": "Ansi-code colour a string containing @r style colour codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pomke/strcolour.git"
+  },
+  "keywords": [
+    "colour",
+    "color",
+    "ANSI",
+    "mud",
+    "string"
+  ],
+  "author": "Pomke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pomke/strcolour/issues"
+  },
+  "homepage": "https://github.com/pomke/strcolour",
+  "dependencies": {
+    "ansi-8-bit": "^1.0.1"
+  }
+}
